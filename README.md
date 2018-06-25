@@ -1,1 +1,1 @@
-"# r6quiz" 
+# r6quiz
